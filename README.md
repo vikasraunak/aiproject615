@@ -5,7 +5,7 @@ Code to be Uploaded soon.
 
 Here's a demo:
 
- <video width="520" height="380" controls>
+ <video width="360" height="240">
   <source src="demo.mkv">
 Your browser does not support the video tag.
 </video> 
